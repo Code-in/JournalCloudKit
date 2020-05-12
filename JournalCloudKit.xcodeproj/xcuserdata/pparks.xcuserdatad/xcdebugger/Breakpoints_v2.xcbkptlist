@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F721165-399E-4249-BB3A-05A0A500045B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C96A3952-907E-4E8F-B0BF-FD6B86C45254"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JournalCloudKit/view/EntryDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C96A3952-907E-4E8F-B0BF-FD6B86C45254 - 433e76bc4fee0816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JournalCloudKit.EntryDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "JournalCloudKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pparks/Desktop/JournalCloudKit/JournalCloudKit/view/EntryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1118">
+               </Location>
+               <Location
+                  uuid = "C96A3952-907E-4E8F-B0BF-FD6B86C45254 - d36e324c55835504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;JournalCloudKit.Entry&gt;, JournalCloudKit.EntryError&gt;) -&gt; () in JournalCloudKit.EntryDetailViewController.saveButtonTapped(Any) -&gt; ()"
+                  moduleName = "JournalCloudKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pparks/Desktop/JournalCloudKit/JournalCloudKit/view/EntryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2088F254-9D07-4403-979B-6322BF86DAA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JournalCloudKit/controller/model controller/EntryController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "save(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2088F254-9D07-4403-979B-6322BF86DAA1 - fcc30aa396587137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JournalCloudKit.EntryController.save(with: JournalCloudKit.Entry, completion: (Swift.Result&lt;Swift.Optional&lt;JournalCloudKit.Entry&gt;, JournalCloudKit.EntryError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JournalCloudKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pparks/Desktop/JournalCloudKit/JournalCloudKit/controller/model%20controller/EntryController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "2088F254-9D07-4403-979B-6322BF86DAA1 - a0938a54afabec61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CKRecord&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JournalCloudKit.EntryController.save(with: JournalCloudKit.Entry, completion: (Swift.Result&lt;Swift.Optional&lt;JournalCloudKit.Entry&gt;, JournalCloudKit.EntryError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JournalCloudKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pparks/Desktop/JournalCloudKit/JournalCloudKit/controller/model%20controller/EntryController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "277">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B15FCBBF-1A4D-4AD3-AAA8-5506630C7439"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JournalCloudKit/controller/model controller/EntryController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "createEntry(with:entryText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF713C9E-67F3-4E84-8ABD-F6398934878F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JournalCloudKit/controller/model controller/EntryController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "save(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D96FA92-F417-445A-AC5F-A32DBFB87F38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JournalCloudKit/controller/model controller/EntryController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "save(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54DA1C7D-8369-48C9-8943-0533238DE259"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JournalCloudKit/model/Entry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init(timestamp:title:entryText:ckRecordID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
